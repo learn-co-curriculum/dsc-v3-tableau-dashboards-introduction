@@ -28,6 +28,7 @@ These objects allow you position vizes in the Dashboard and add other interactiv
 </td></tr></table>
     </center> </div>
 <br>
+<br>
 
 
 ## Interactive Dashboards
