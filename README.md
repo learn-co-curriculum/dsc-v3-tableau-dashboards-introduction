@@ -38,7 +38,7 @@ One way you can add interactivity to a dashboard is to have a drop down menu of 
 <div>
     <center>
 <table><tr><td>
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/dashboards/dashboard1-example.png" alt="This is the alt-text for the image." style="width: 700px;"/>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/images/tableau/dashboards/dashboard-example.png" alt="This is the alt-text for the image." style="width: 700px;"/>
 </td></tr></table>
     </center> </div>
 <br>
