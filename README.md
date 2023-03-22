@@ -2,7 +2,7 @@
 # Tableau Dashboards - Introduction
 
 ## Introduction
-The most powerful feature of Tableau is the ability to create interactive dashboards. A Tableau dashboard is a collection of views which have been formatted to convey information from data with multiple visualizations. The creator of a dashboard can add interactive objects to the visualizations to allow the viewer to change the views to understand various features of the data. In this lesson, we will introduce Tableau dashboards and look at the various functionality Tableau offers to format dashboards for effective communication of the data for the viewer.
+The most powerful feature of Tableau is the ability to create interactive dashboards. A Tableau dashboard is a collection of views that have been formatted to convey information from data with multiple visualizations. The creator of a dashboard can add interactive objects to the visualizations to allow the viewer to change the views to understand various features of the data. In this lesson, we will introduce Tableau dashboards and look at the various functionality Tableau offers to format dashboards for effective communication of the data for the viewer.
 
 ## Objectives
 You will be able to: 
@@ -10,13 +10,13 @@ You will be able to:
 * Explain the benefits of an interactive dashboard
 
 ## Why Create a Dashboard?
-Up until this point, we have used Tableau workbooks to organize our worksheets which contain vizzes of particular views from our data source. This is a great start, but there is still room for improvment with respect to the end user experience. Flipping through tabs is not an efficient way to see the big picture from your data. We can level up the expression of our insights by creating a dashboard to aggregate our findings on related topics. Dashboards can be a useful tool for data scientists and analysts to present and communicate their findings in a visually appealing and accessible way. Here are some use cases for dashboards in data science/analysis:
+Up until this point, we have used Tableau workbooks to organize our worksheets which contain vizzes of particular views from our data source. This is a great start, but there is still room for improvement concerning the end-user experience. Flipping through tabs is not an efficient way to see the big picture from your data. We can level up the expression of our insights by creating a dashboard to aggregate our findings on related topics. Dashboards can be a useful tool for data scientists and analysts to present and communicate their findings in a visually appealing and accessible way. Here are some use cases for dashboards in data science/analysis:
 
-These are some are some common uses cases for dashboards in the world of business intelligence:
+These are some common uses cases for dashboards in the world of business intelligence:
 
 1. Monitoring business performance: Dashboards can be used to track key performance indicators (KPIs) for a business, such as revenue, customer acquisition, and website traffic. This can help decision-makers quickly identify trends and areas that need improvement.
 
-2. Exploring data: Dashboards can allow data scientists to interact with data in real-time, enabling them to identify patterns, trends, and outliers.
+2. Exploring data: Dashboards can allow data scientists to interact with data in real time, enabling them to identify patterns, trends, and outliers.
 
 3. Communicating insights: Dashboards can be used to present insights and analysis to stakeholders in a clear and easy-to-understand way. This can help decision-makers make informed choices based on data.
 
@@ -33,7 +33,7 @@ Overall, dashboards can be a powerful tool for data scientists and analysts to e
 ## Interactive Dashboards
 Adding interactivity to a dashboard is a great tool to let your viewer adjust the view of the data to meet their need. 
 
-One way you can add interactivity to a dashboard is to have a drop down menu of locations for the viewer to focus on. Upon selecting a location the vizes on the dashboard would automatically display the data relevant to that specific location. 
+One way you can add interactivity to a dashboard is to have a drop-down menu of locations for the viewer to focus on. Upon selecting a location the vizes on the dashboard would automatically display the data relevant to that specific location. 
 
 Check out the example below:
 
